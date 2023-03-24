@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#box {
+    
+}
+
+.mybox{
+    width: 20%;
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    margin-right: 10px;
+
+}
+
+#div1 {
+    background-color: grey;
+}
+
+#div2 {
+    background-color: grey;
+}
+
+#div3 {
+    background-color: grey;
+}
